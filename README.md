@@ -1,11 +1,17 @@
-## 이종혁 (JongHyeok Lee)
-- 🌱 I’m currently learning ...
+## 🎮 이종혁 (JongHyeok Lee)
+📖 I’m currently learning
 - Game Client Programming
 - Game Engine
 
 ### Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aor9&show_icons=true&theme=dracula)
-﻿![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aor9&langs_count=10&layout=compact&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aor9&theme=dark)](https://git.io/streak-stats)
+
+### Problem Solving
+[![JongHyeok's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee612623)](https://solved.ac/profile/lee612623)
+
+**Contact** <br>
+✉️ lee612623@gmail.com
+
 <!--
 **aor9/aor9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
