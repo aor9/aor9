@@ -9,6 +9,9 @@
 ### Problem Solving
 [![JongHyeok's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee612623)](https://solved.ac/profile/lee612623)
 
+**Study Notes** <br>
+[![Notion Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://aor9.notion.site/Hub-14c53c648d5e8082a70cd1a9cce099b2)
+
 **Contact** <br>
 ✉️ lee612623@gmail.com
 
